@@ -11,7 +11,3 @@ public class Main {
         return a+b+c;
     }
 }
-
-//class coche(){
-
-//}
