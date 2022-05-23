@@ -1,2 +1,0 @@
-
-rint ("hola mundo")
