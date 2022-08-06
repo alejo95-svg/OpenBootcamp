@@ -1,13 +1,12 @@
-import javax.sound.sampled.SourceDataLine;
 
-public class Main {
+public class Main1 {
     public static void main(String[] args) {
         //Declaracion de variables
         int numeroIf = -15;
         String condicion;
         int numeroWhile = 0;
 
-
+        System.out.println();
 
         //Ciclo If
         if (numeroIf > 0) {
